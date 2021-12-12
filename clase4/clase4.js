@@ -7,10 +7,6 @@ class Productos {
         this.thumbnail = thumbnail;
     }
 }
-
-let rdr2 = new Productos("Red Dead Redemption 2", 2700, "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.epicgames.com%2Fstore%2Fes-ES%2Fp%2Fred-dead-redemption-2&psig=AOvVaw22TD80368rymynfePwUlE0&ust=1638548839740000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPCq3Z_ExfQCFQAAAAAdAAAAABAD");
-let tboi = new Productos("The Binding of Isaac: Repentance", 1200, "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.epicgames.com%2Fstore%2Fes-ES%2Fp%2Fthe-binding-of-isaac-repentance&psig=AOvVaw1C9TIkxFbJhSC_6Oc9gPVB&ust=1638565124534000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLCKkfuAxvQCFQAAAAAdAAAAABAD")
-
 class Contenedor {
     constructor(nameFile){
         this.nameFile = nameFile;

@@ -1,0 +1,25 @@
+{
+  "name": "ecommerce_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.15",
+    "random": "^3.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GaspariniOsvaldo/ecommerce_backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GaspariniOsvaldo/ecommerce_backend/issues"
+  },
+  "homepage": "https://github.com/GaspariniOsvaldo/ecommerce_backend#readme"
+}
